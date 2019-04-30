@@ -31,7 +31,7 @@ spec:
   selector:
     matchLabels:
       app: redis
-  replicas: $REPLICAS
+  replicas: {{REPLICAS}}
   template:
     metadata:
       labels:
