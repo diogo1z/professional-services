@@ -21,7 +21,7 @@ This is a sample K8s configuration files to deploy a Redis Cluster on GKE.
 
 2. Clone an example git repository.
  ```
- $ git clone https://github.com/GoogleCloudPlatform/professional-services.git
+ $ git clone https://github.com/vidalink/professional-services.git
  $ cd professional-services/examples/redis-cluster-gke
  ```
 
